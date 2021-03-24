@@ -24,6 +24,7 @@ public class SelectFromDropDown {
 
 	// getting WebDriver
 	public WebDriver setDriver(String browser) {
+		System.out.println("hello world0");
 		driver = DriverSetup.getWebDriver(browser);
 		return driver;
 	}
