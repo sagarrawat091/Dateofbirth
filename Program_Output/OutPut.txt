@@ -1,0 +1,6 @@
+you choose chrome browser
+You choose excel file
+Screenshots  before, after and main section are captured and stored in Program_Output folder
+All the testcase ouptut is redirected to Output.txt file inside Program_Output folder
+the date of birth you choose 30/5/2001
+test case passed
